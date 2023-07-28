@@ -1,2 +1,2 @@
 # MultipleLogisticRegression
-TECMM Zapopan AI
+Modelling of Multiple Logistic Regression for Artificial Intelligence.
